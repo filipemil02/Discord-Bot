@@ -1,3 +1,4 @@
+#COPYRIGHT 2021 Filip Emil
 #!./.venv/bin/python
  
 import discord      # base discord module
